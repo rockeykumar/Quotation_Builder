@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VS24</string>
+    <string name="enter_text_here">Enter Text here.......!</string>
+    <string name="generate_pdf_file">Generate PDF File</string>
+</resources>
